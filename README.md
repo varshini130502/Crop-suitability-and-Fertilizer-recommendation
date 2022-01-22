@@ -1,2 +1,3 @@
-# Crop-suitability-and-Fertilizer-recommendation
+# Crop Suitability and Fertilizer Recommendation System Using Machine Learning
+The core strategy of this project is to predict the crop and fertilizer based on the soil nutrient content and the location where the crop is growing by using several machine learning algorithms. The attributes of datasets of crop and fertilizer such as nitrogen, phosphorous, potassium and location are analyzed and trained with suitable machine learning algorithms for creating a model. A web application is created that takes the inputs of nutrients of the soil and predicts the suitable crop and fertilizer. This system helps the farmers to choose the right crop for their land and to give the suitable amount of fertilizer to produce maximum yield. 
 
